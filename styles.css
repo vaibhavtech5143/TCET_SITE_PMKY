@@ -1,0 +1,191 @@
+* {
+  font-family: 'Marcellus', serif;
+  font-weight: 600;
+    
+}
+
+.tcet-header {
+  display: block;
+  margin: auto;
+}
+
+.carousel-c {
+  background-color: black;
+}
+
+.carousel-c > h5 {
+  display: inline-block;
+}
+
+#carouselExampleIndicators {
+  width: 80%;
+  margin-top: 4rem;
+}
+
+.home {
+  margin: 4rem 0;
+
+  background-color: #fbc490;
+}
+
+.avm,
+.vm-cse {
+  flex: 1;
+  border: 2px solid rgb(255, 94, 0);
+  padding: 1rem;
+  text-align: justify;
+  margin: 5rem 1rem;
+  font-size: 0.9375rem;
+}
+
+.avm > h2 {
+  text-align: center;
+  color: white;
+  background-color: #a82810;
+  padding: 0.5rem;
+  font-weight: bold;
+}
+
+.academics > img {
+  display: block;
+  margin: auto;
+}
+
+.cse-intro {
+  border: 2px solid rgb(255, 94, 0);
+  padding: 2rem;
+  text-align: justify;
+  margin: 0 1rem;
+}
+
+.cse-intro > h3 {
+  background-color: #a82810;
+  color: #fbc490;
+  padding: 1rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.vm-cse > h3 {
+  text-align: center;
+  background-color: #a82810;
+  color: #fbc490;
+  padding: 0.3125rem;
+  font-weight: bold;
+  
+}
+
+.vm-cse {
+  margin: 2rem 1rem;
+}
+
+table{
+    text-align: center;
+    margin: 1rem auto;
+    
+    
+}
+
+table, th, td {
+    border: 2px solid rgb(255, 94, 0);
+    padding: 0.625rem;
+}
+
+th {
+  background-color: #F67B50;
+  color: #A82810;
+}
+.toppers-cse > h3 {
+    text-align: center;
+    background-color: #a82810;
+    color: #fbc490;
+    padding: 0.3125rem;
+    margin: 0 1rem;
+    font-weight: bold;
+    margin-bottom: 3rem;
+}
+
+#tcet-admission {
+    background-color: #FBC490;
+    padding: 4rem;
+    
+}
+
+
+#tcet-admission > h2 {
+    background-color: #a82810;
+    color: white;
+    padding: 2rem;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+.admission-info {
+  padding: 2rem;
+  font-size: large;
+  color: #A82810;
+  text-align: center;
+}
+
+.contact {
+  background-color: #A82810;
+}
+
+.query-form, .contact {
+  padding-bottom: 2rem;
+  border-left: 1px solid rgb(255, 94, 0);
+  border-right: 1px solid rgb(255, 94, 0);
+  font-size: large;
+}
+
+.contact-form-container {
+  background-color: #A82810;
+  color: white
+}
+
+.end-headings {
+  text-align: center;
+  color: white;
+  background-color: #a82810;
+  padding: 1rem;
+  font-weight: bold;
+  text-decoration:underline #fbc490;
+}
+
+form {
+  padding: 2rem;
+  text-align: center;
+}
+
+label {
+  padding: 0.5rem;
+}
+
+.contact > p {
+  font-size: larger;
+  padding: 1rem;
+  padding-right: 5rem;
+  text-align: left;
+}
+.button {
+  color: #A82810;
+  border: #F67B50;
+  background-color: #FBAA60;
+}
+.button:hover {
+  background-color: #FBC490;
+  cursor: pointer;
+  
+}
+@media screen and (max-width: 992px){
+    .query-form {
+      border-bottom:  2px solid rgb(255, 94, 0);
+    }
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  color:gray
+}
+/* https://www.canva.com/colors/color-palettes/toasted-peach/ */
